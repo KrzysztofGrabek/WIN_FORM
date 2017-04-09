@@ -16,5 +16,17 @@ namespace WIN_FORM
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Test");
+            MessageBox.Show("Test");
+            MessageBox.Show("Test");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
