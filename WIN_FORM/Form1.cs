@@ -21,7 +21,7 @@ namespace WIN_FORM
         {
             MessageBox.Show("Test");
             MessageBox.Show("Test");
-            MessageBox.Show("Test");
+            MessageBox.Show("aaaa");
         }
 
         private void Form1_Load(object sender, EventArgs e)
